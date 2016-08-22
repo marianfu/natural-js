@@ -1,0 +1,34 @@
+{
+  "name": "natural-js",
+  "version": "0.0.1",
+  "description": "Natural Language Processing",
+  "main": "natural.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianfu/natural-js.git"
+  },
+  "author": "Mariano Furriel",
+  "contributors": [
+    {
+      "name": "Gabriel Rodriguez Colombelli",
+      "email": "gabrielpablorc@gmail.com",
+      "url": "https://github.com/gabrielprc"
+    },
+    {
+      "name": "Mariano Furriel",
+      "email": "",
+      "url": "https://github.com/marianfu"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marianfu/natural-js/issues"
+  },
+  "homepage": "https://github.com/marianfu/natural-js#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
